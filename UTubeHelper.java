@@ -16,7 +16,7 @@ import java.util.List;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class UTubeLinkHelper {
+public class UTubeHelper {
 
     private static String URL_PART = "https://www.youtube.com/watch?v=";
     final static String UTF8 = "UTF-8";
